@@ -8,6 +8,8 @@ sites:
     url: https://scarif.vanloon.family/
   - name: Plex
     url: https://plex.vanloon.family/
+    expectedStatusCodes:
+      - 401
   - name: VLTV
     url: https://live.vanloon.family
   - name: Streaming Ingest
