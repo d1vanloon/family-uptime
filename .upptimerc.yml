@@ -7,13 +7,13 @@ sites:
   - name: SCARIF
     url: https://scarif.vanloon.family/
   - name: Plex
-    url: https://plex.vanloon.family/
+    url: https://plex.vanloon.family/web/index.html
     expectedStatusCodes:
       - 401
   - name: VLTV
     url: https://live.vanloon.family/
   - name: S3
-    url: https://s3.vanloon.family/
+    url: https://s3.vanloon.family/minio/login/
   - name: Streaming Ingest
     url: https://ingest.vanloon.family/
   - name: Media Requests
