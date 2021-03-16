@@ -12,6 +12,8 @@ sites:
     url: https://live.vanloon.family/
   - name: S3
     url: https://s3.vanloon.family/minio/login/
+    headers:
+      - "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.19 Safari/537.36 Edg/90.0.818.6"
   - name: Streaming Ingest
     url: https://ingest.vanloon.family/
   - name: Media Requests
