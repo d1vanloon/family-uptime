@@ -23,17 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/plex.vanloon.family",
     "slug": "plex",
     "status": "down",
-    "uptime": "6.91%",
-    "uptimeDay": "6.91%",
-    "uptimeWeek": "6.91%",
-    "uptimeMonth": "6.91%",
-    "uptimeYear": "6.91%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 276,
     "timeDay": 276,
     "timeWeek": 276,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2021-03-16": 14,
       "2021-03-15": 0
     }
   },
