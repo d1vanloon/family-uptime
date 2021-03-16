@@ -11,7 +11,9 @@ sites:
     expectedStatusCodes:
       - 401
   - name: VLTV
-    url: https://live.vanloon.family
+    url: https://live.vanloon.family/
+  - name: S3
+    url: https://s3.vanloon.family/
   - name: Streaming Ingest
     url: https://ingest.vanloon.family/
   - name: Media Requests
