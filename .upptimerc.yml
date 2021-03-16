@@ -19,6 +19,9 @@ sites:
   - name: Media Requests
     url: https://requests.vanloon.family/
 
+assignees:
+  - d1vanloon
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.vanloon.family
