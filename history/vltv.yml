@@ -1,7 +1,7 @@
 url: https://live.vanloon.family/
-status: up
-code: 200
-responseTime: 878
-lastUpdated: 2021-03-20T23:05:47.103Z
+status: down
+code: 502
+responseTime: 10164
+lastUpdated: 2021-03-21T15:28:04.684Z
 startTime: Mon Mar 15 2021 23:59:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
