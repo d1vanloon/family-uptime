@@ -112,17 +112,17 @@
     "url": "https://moviematch.vanloon.family/",
     "icon": "https://favicons.githubusercontent.com/moviematch.vanloon.family",
     "slug": "movie-match",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 258,
-    "timeWeek": 267,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "time": 702,
+    "timeDay": 205,
+    "timeWeek": 256,
+    "timeMonth": 702,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   }
 ]
