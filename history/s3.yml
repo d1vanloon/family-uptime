@@ -1,7 +1,7 @@
 url: https://s3.vanloon.family/minio/login/
-status: up
-code: 200
-responseTime: 249
-lastUpdated: 2021-04-04T23:11:43.768Z
+status: down
+code: 502
+responseTime: 10219
+lastUpdated: 2021-04-05T08:25:55.810Z
 startTime: Tue Mar 16 2021 00:21:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
