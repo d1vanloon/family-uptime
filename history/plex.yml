@@ -1,7 +1,7 @@
 url: https://plex.vanloon.family/web/index.html
-status: up
-code: 200
-responseTime: 281
-lastUpdated: 2021-04-04T23:11:42.747Z
+status: down
+code: 502
+responseTime: 11093
+lastUpdated: 2021-04-05T08:24:53.380Z
 startTime: Mon Mar 15 2021 23:59:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
