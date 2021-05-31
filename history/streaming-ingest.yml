@@ -1,7 +1,7 @@
 url: https://ingest.vanloon.family/
-status: up
-code: 200
-responseTime: 278
-lastUpdated: 2021-05-30T23:27:03.635Z
+status: down
+code: 502
+responseTime: 267
+lastUpdated: 2021-05-31T08:41:03.210Z
 startTime: Mon Mar 15 2021 23:59:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
