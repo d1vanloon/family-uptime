@@ -1,7 +1,7 @@
 url: https://requests.vanloon.family/
-status: up
-code: 200
-responseTime: 369
-lastUpdated: 2021-07-11T23:06:09.173Z
+status: down
+code: 502
+responseTime: 442
+lastUpdated: 2021-07-12T08:25:16.263Z
 startTime: Mon Mar 15 2021 23:59:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
